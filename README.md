@@ -1,5 +1,7 @@
 # MEAN Stack TradingDashboard
 
+This project uses the MEAN stack (MongoDB, Express.js, Angular, Node.js) to build a crypto trading simulation dashboard. It implements data analytics, trading, trading strategy, and user feedback page. Users will be able to log in with their accounts or external APIs. Then they can inspect the data, try various price prediction algorithms on previous trading history, and make trades with different options. 
+
 This project uses the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)):
 * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)): database
 * [**E**xpress.js](http://expressjs.com): backend framework
