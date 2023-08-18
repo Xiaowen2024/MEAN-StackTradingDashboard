@@ -30,4 +30,4 @@ Other tools and technologies used:
 A window will automatically open at [localhost:4200](http://localhost:4200). Angular and Express files are being watched. Any change automatically creates a new bundle, restart Express server and reload your browser.
 
 ## Preview
-![Preview](https://drive.google.com/file/d/1-s_-Fa8SZb8R3UiPoHIFnGZihB7Hg5gf/view?usp=sharing "Preview")
+![Preview](https://youtu.be/Sg7thpCR0WY)
