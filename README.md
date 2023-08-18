@@ -22,9 +22,12 @@ Other tools and technologies used:
 3. From project root folder install all the dependencies: `npm i`
 
 ## Run
-`cd client`: enter client folder 
-`ng serve -o`
-`cd server`: enter server folder
-`npx ts-node src/server.ts`
+1. `cd client`: enter client folder 
+2. `ng serve -o`
+3. `cd server`: enter server folder
+4. `npx ts-node src/server.ts`
 
 A window will automatically open at [localhost:4200](http://localhost:4200). Angular and Express files are being watched. Any change automatically creates a new bundle, restart Express server and reload your browser.
+
+## Preview
+![Preview](https://raw.githubusercontent.com/DavideViolante/Angular2-Full-Stack/master/demo.gif "Preview")
