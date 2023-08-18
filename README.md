@@ -31,3 +31,4 @@ A window will automatically open at [localhost:4200](http://localhost:4200). Ang
 
 ## Preview
 ![Preview](https://github.com/Xiaowen2024/MEAN-StackTradingDashboard/blob/main/strategy.gif)
+![Preview](https://github.com/Xiaowen2024/MEAN-StackTradingDashboard/blob/main/trade.gif)
